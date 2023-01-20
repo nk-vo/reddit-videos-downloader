@@ -68,4 +68,4 @@ async function downloadVideos(subreddit) {
   }
 }
 
-downloadVideos("PinayTikTok");
+downloadVideos("");
